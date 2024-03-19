@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">DataBindingProj</string>
+
+<string-array name="Genders">
+    <item>Male</item>
+    <item>Female</item>
+    <item>Transgender</item>
+</string-array>
+</resources>
